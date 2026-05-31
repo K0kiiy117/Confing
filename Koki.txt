@@ -1,8 +1,8 @@
 #profile-title: base64:8J+OgSBGcmVlIEludGVybmV0
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/liMilCo/v2r
-#profile-web-page-url: https://limilco.github.io/v2r/
+#support-url: https://github.com/K0kiiy117/Confing
+#profile-web-page-url: https://github.com/K0kiiy117/Confing
 vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g10.steptofsvo.com&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp&headerType=none#%40filtershekan_channel%20%7C12
 vless://8be98cb0-0942-4bc2-b2da-eec9e2e53f9f@45.150.34.244:55128?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&pbk=7l16WkJYuCyfJG2ayNxM-IBh8J3bZvi_ntFcjokuASg&sid=7134a1b6e13dcb36&type=tcp&headerType=none#%40filtershekan_channel%20%7C11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%40filtershekan_channel%20%7C9
