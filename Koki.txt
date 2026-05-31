@@ -1,13 +1,13 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMSDwn5Sl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/barry-far/config
+#profile-web-page-url: https://github.com/K0kiiy117/Config
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/K0kiiy117/Config
+#profile-web-page-url:https://github.com/K0kiiy117/Config
 ê¥n&ð@v§MV¯ÀHFßÃºÞíC CðÚÚåk¥ïÿòþj*zÐY¹x}·Àê!IoÞ}iT´ôÕM(O;Jo*\ÒRýÆhas+6-ýÓ)!?ZÒªxH¡ë+3öÝfimÖÔ,v?S·ê½©¾ÇM¬Î)g'AÍ.ÿÆÊDû©qÏÖ6øPÿÒÀðaÊD[!t5iÒ6ß¢.Èé% 2;ë,ãIf×óçµssÏYqüEÊe·ãcq*ENz-µ8¢÷¹~+ÌX«h¤ÀÖ=¡{yLbæDLÜ-ºí_õãsípÉgJýKé¸Rïbçç¤åÝ>:óþ`uú(äóOÊqªyÑÔ¾N}ÝÒ åÍY­ÒXw$í:y0Ô-¤Ô ËêvÐT§b&mÅ²È«Plª'#NÒ®q0¨Eñ0YùÈJy=!ÑEÁ\X¹üq×å¯áÑÇË-TÙuê^ý®=ö´ûjäêQPæOÝYD)´7ÓÒ\
 5ÙÒèÿ¨ÓFòDÔ¬¦èén@8#¬i×VÈOj·õQ¬2prk¡ÛIÙa;¥Îeh1üÒ[ÉÁáÐM!}Ð÷L"2CR-Ù¿ÒÕÛ- ïaÓ¹×°­y.=êZ)¿QG7CÕGõ¬eqÊJ»1êdpìÌG[´34Vû'úÍGW]`3nªeÊÓX´8MÛhâS§Ä»òîu¦ïp;T°aÒ*j4ÿ¿¢ºËP(¦Ñ*;F¥ðdñYy{ «béWQ
 Í3wy	3S~)4#`7>3ûnQ&Tû¬ËÕÅïmUÇÍc½çÈGs	Áÿý.;<2xéË&L>zp­¶ßÒòËù)S¢ss[¯Q1?øõQ=´Ü¤Ü"Tsv»»ÿ 7ºpÐÖ²D+~®:æM7ÞËÀ,FâÂÿM'ûé4wù^ÇL/ql¸3)ÄDØ=qÝj.VrQOöóÁ=3xÊ©nÑ«!&üù´.õïÐ\ËµÀj	ñhõ²¿sS<s9±æØø	o©{hÏòGõDyÅÏýë
