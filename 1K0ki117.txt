@@ -1,4 +1,4 @@
-#profile-title: 🍪config 🗓1405/03/24
+#profile-title: 🍪config 🗓1405/03/26
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/K0kiiy117/Confing
